@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.2.11)  2 MAR 2023 07:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.2.11)  2 MAR 2023 08:43
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -199,15 +199,10 @@ Package caption Info: Standard document class detected.
 )
 (/usr/share/texlive/texmf-dist/tex/latex/cancel/cancel.sty
 Package: cancel 2013/04/12 v2.2 Cancel math terms
-)
-(/mnt/ExtraDrive1/Work/shTex/mymacros.sty
-
-LaTeX Warning: You have requested package `/mnt/ExtraDrive1/Work/shTex/mymacros
-',
-               but the package provides `mymacros'.
-
+) (./mymacros.sty
 Package: mymacros 2015/02/17 v1.0 My own macros
-) (/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+)
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2020/01/03 v3.4h Customizing captions (AR)
 \c@caption@flags=\count266
 \c@continuedfloat=\count267
@@ -389,9 +384,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 824--826
 
 ] [51] (./hglmm.aux) ) 
 Here is how much of TeX's memory you used:
- 4659 strings out of 481239
- 69374 string characters out of 5920377
- 308581 words of memory out of 5000000
+ 4658 strings out of 481239
+ 69180 string characters out of 5920377
+ 308469 words of memory out of 5000000
  19860 multiletter control sequences out of 15000+600000
  544079 words of font info for 68 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -414,7 +409,7 @@ m/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy
 /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/s
 hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/share/t
 exlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on hglmm.pdf (53 pages, 925829 bytes).
+Output written on hglmm.pdf (53 pages, 928155 bytes).
 PDF statistics:
  319 PDF objects out of 1000 (max. 8388607)
  218 compressed objects within 3 object streams
