@@ -1,0 +1,257 @@
+\begin{thebibliography}{47}
+\newcommand{\enquote}[1]{``#1''}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+
+\bibitem[{Berliner(1996)}]{berliner_hierarchical_1996}
+Berliner, L.~M. (1996), \enquote{Hierarchical {Bayesian} time series models,}
+  in \textit{Maximum {Entropy} and {Bayesian} {Methods}: {Santa} {Fe}, {New}
+  {Mexico}, {USA}, 1995 {Proceedings} of the {Fifteenth} {International}
+  {Workshop} on {Maximum} {Entropy} and {Bayesian} {Methods}}, Springer, pp.
+  15--22.
+
+\bibitem[{Besag(1974)}]{Besag1974SpatialInteractionStatistical192}
+Besag, J. (1974), \enquote{Spatial interaction and the statistical analysis of
+  lattice systems (with discussion),} \textit{Journal of the Royal Statistical
+  Society, Series B}, 36, 192--236.
+
+\bibitem[{Bonat and Ribeiro~Jr(2016)}]{bonat_practical_2016}
+Bonat, W.~H. and Ribeiro~Jr, P.~J. (2016), \enquote{Practical likelihood
+  analysis for spatial generalized linear mixed models,}
+  \textit{Environmetrics}, 27, 83--89.
+
+\bibitem[{Breslow and Clayton(1993)}]{breslow_approximate_1993}
+Breslow, N.~E. and Clayton, D.~G. (1993), \enquote{Approximate inference in
+  generalized linear mixed models,} \textit{Journal of the American Statistical
+  Association}, 88, 9--25.
+
+\bibitem[{Chiles and
+  Delfiner(1999)}]{ChilesEtAl1999GeostatisticsModelingSpatial}
+Chiles, J.-P. and Delfiner, P. (1999), \textit{Geostatistics: {Modeling}
+  {Spatial} {Uncertainty}}, New York: John Wiley \& Sons.
+
+\bibitem[{Christensen(2004)}]{christensen_monte_2004}
+Christensen, O.~F. (2004), \enquote{Monte {Carlo} maximum likelihood in
+  model-based geostatistics,} \textit{Journal of Computational and Graphical
+  Statistics}, 13, 702--718.
+
+\bibitem[{Clayton and Kaldor(1987)}]{clayton_empirical_1987}
+Clayton, D. and Kaldor, J. (1987), \enquote{Empirical {Bayes} estimates of
+  age-standardized relative risks for use in disease mapping,}
+  \textit{Biometrics}, 43, 671--681.
+
+\bibitem[{Cressie and
+  Wikle(2011)}]{CressieEtAl2011StatisticsSpatiotemporalData}
+Cressie, N. and Wikle, C.~K. (2011), \textit{Statistics for {Spatio}-{Temporal}
+  {Data}}, Hoboken, NJ: John Wiley \& Sons.
+
+\bibitem[{Cressie(1993)}]{Cressie1993StatisticsSpatialData}
+Cressie, N. A.~C. (1993), \textit{Statistics for {Spatial} {Data}, {Revised}
+  {Edition}}, New York: John Wiley \& Sons.
+
+\bibitem[{Diggle et~al.(1998)Diggle, Tawn, and
+  Moyeed}]{DiggleEtAl1998ModelbasedGeostatisticsDisc299}
+Diggle, P.~J., Tawn, J.~A., and Moyeed, R.~A. (1998), \enquote{Model-based
+  geostatistics (with discussion),} \textit{Journal of the Royal Statistical
+  Society, Series C: Applied Statistics}, 47, 299--326.
+
+\bibitem[{Dumelle et~al.(2021)Dumelle, Ver~Hoef, Fuentes, and
+  Gitelman}]{dumelle_linear_2021}
+Dumelle, M., Ver~Hoef, J.~M., Fuentes, C., and Gitelman, A. (2021), \enquote{A
+  linear mixed model formulation for spatio-temporal random processes with
+  computational advances for the product, sum, and product–sum covariance
+  functions,} \textit{Spatial Statistics}, 43, 100510.
+
+\bibitem[{Evangelou et~al.(2011)Evangelou, Zhu, and
+  Smith}]{evangelou_estimation_2011}
+Evangelou, E., Zhu, Z., and Smith, R.~L. (2011), \enquote{Estimation and
+  prediction for spatial generalized linear mixed models using high order
+  {Laplace} approximation,} \textit{Journal of Statistical Planning and
+  Inference}, 141, 3564--3577.
+
+\bibitem[{Fisher(1934)}]{fisher_two_1934}
+Fisher, R.~A. (1934), \enquote{Two new properties of mathematical likelihood,}
+  \textit{Proceedings of the Royal Society of London. Series A, Containing
+  Papers of a Mathematical and Physical Character}, 144, 285--307.
+
+\bibitem[{Gelfand and
+  Smith(1990)}]{GelfandEtAl1990Samplingbasedapproachescalculating398}
+Gelfand, A.~E. and Smith, A. F.~M. (1990), \enquote{Sampling-based approaches
+  to calculating marginal densities,} \textit{Journal of the American
+  Statistical Association}, 85, 398--409.
+
+\bibitem[{Gilks et~al.(1996)Gilks, Richardson, and
+  Spiegelhalter}]{GilksEtAl1996IntroducingMarkovchain1}
+Gilks, W.~R., Richardson, S., and Spiegelhalter, D.~J. (1996),
+  \enquote{Introducing {Markov} {Chain} {Monte} {Carlo},} in \textit{Markov
+  {Chain} {Monte} {Carlo} in {Practice}}, Chapman and Hall, pp. 1--19.
+
+\bibitem[{Gneiting(2013)}]{gneiting_strictly_2013}
+Gneiting, T. (2013), \enquote{Strictly and non-strictly positive definite
+  functions on spheres,} \textit{Bernoulli}, 19, 1327 -- 1349.
+
+\bibitem[{Gotway and Stroup(1997)}]{GotwayEtAl1997GeneralizedLinearModel157}
+Gotway, C.~A. and Stroup, W.~W. (1997), \enquote{A generalized linear model
+  approach to spatial data analysis and prediction,} \textit{Journal of
+  Agricultural, Biological, and Environmental Statistics}, 2, 157--178.
+
+\bibitem[{Haining(1978)}]{haining_moving_1978}
+Haining, R.~P. (1978), \enquote{The moving average model for spatial
+  interaction,} \textit{Transactions of the Institute of British Geographers},
+  3, 202--225.
+
+\bibitem[{Hamilton(1994)}]{Hamilton1994TimeSeriesAnalysis}
+Hamilton, J.~D. (1994), \textit{Time {Series} {Analysis}}, vol.~2, Princeton,
+  NJ, USA: Princeton University Press.
+
+\bibitem[{Hasselbach et~al.(2005)Hasselbach, Ver~Hoef, Ford, Neitlich,
+  Crecelius, Berryman, Wolk, and Bohle}]{hasselbach_spatial_2005}
+Hasselbach, L., Ver~Hoef, J.~M., Ford, J., Neitlich, P., Crecelius, E.,
+  Berryman, S., Wolk, B., and Bohle, T. (2005), \enquote{Spatial patterns of
+  cadmium and lead deposition on and adjacent to {National} {Park} {Service}
+  lands in the vicinity of {Red} {Dog} {Mine}, {Alaska},} \textit{Science of
+  the Total Environment}, 348, 211--230.
+
+\bibitem[{Huang et~al.(2011)Huang, Zhang, and Robeson}]{huang_validity_2011}
+Huang, C., Zhang, H., and Robeson, S.~M. (2011), \enquote{On the validity of
+  commonly used covariance and variogram functions on the sphere,}
+  \textit{Mathematical Geosciences}, 43, 721--733.
+
+\bibitem[{Kleinman and Ibrahim(1998)}]{kleinman_semi-parametric_1998}
+Kleinman, K.~P. and Ibrahim, J.~G. (1998), \enquote{A semi-parametric
+  {Bayesian} approach to generalized linear mixed models,} \textit{Statistics
+  in Medicine}, 17, 2579--2596.
+
+\bibitem[{Lee and Nelder(1996)}]{lee_hierarchical_1996}
+Lee, Y. and Nelder, J.~A. (1996), \enquote{Hierarchical generalized linear
+  models,} \textit{Journal of the Royal Statistical Society: Series B
+  (Methodological)}, 58, 619--656.
+
+\bibitem[{Lehmann and Casella(2006)}]{lehmann_theory_2006}
+Lehmann, E.~L. and Casella, G. (2006), \textit{Theory of point estimation},
+  Springer Science \& Business Media.
+
+\bibitem[{Lunn et~al.(2000)Lunn, Thomas, Best, and
+  Spiegelhalter}]{lunn_winbugs_2000}
+Lunn, D.~J., Thomas, A., Best, N., and Spiegelhalter, D. (2000),
+  \enquote{{WinBUGS} - {A} {Bayesian} modelling framework: {Concepts},
+  structure, and extensibility,} \textit{Statistics and Computing}, 10,
+  325--337.
+
+\bibitem[{McCullagh and
+  Nelder(1989)}]{McCullaghEtAl1989GeneralizedLinearModels}
+McCullagh, P. and Nelder, J.~A. (1989), \textit{Generalized {Linear} {Models},
+  2nd {Edition}}, Chapman \& Hall Ltd.
+
+\bibitem[{Neitlich et~al.(2017)Neitlich, Hoef, Berryman, Mines, Geiser,
+  Hasselbach, and Shiel}]{neitlich_trends_2017}
+Neitlich, P.~N., Hoef, J. M.~V., Berryman, S.~D., Mines, A., Geiser, L.~H.,
+  Hasselbach, L.~M., and Shiel, A.~E. (2017), \enquote{Trends in spatial
+  patterns of heavy metal deposition on national park service lands along the
+  {Red} {Dog} {Mine} haul road, {Alaska}, 2001–2006,} \textit{PLOS ONE}, 12,
+  e0177936.
+
+\bibitem[{Nelder and
+  Wedderburn(1972)}]{NelderEtAl1972GeneralizedLinearModels370}
+Nelder, J.~A. and Wedderburn, R. W.~M. (1972), \enquote{Generalized linear
+  models,} \textit{Journal of the Royal Statistical Society, Series A:
+  General}, 135, 370--384.
+
+\bibitem[{Pace and Barry(1997)}]{pace_quick_1997}
+Pace, R.~K. and Barry, R. (1997), \enquote{Quick computation of spatial
+  autoregressive estimators,} \textit{Geographical analysis}, 29, 232--247.
+
+\bibitem[{Patterson and
+  Thompson(1974)}]{PattersonEtAl1974Maximumlikelihoodestimation197}
+Patterson, H. and Thompson, R. (1974), \enquote{Maximum likelihood estimation
+  of components of variance,} in \textit{Proceedings of the 8th {International}
+  {Biometric} {Conference}}, Biometric Society, Washington, DC, pp. 197--207.
+
+\bibitem[{Patterson and
+  Thompson(1971)}]{PattersonEtAl1971Recoveryinterblockinformation545}
+Patterson, H.~D. and Thompson, R. (1971), \enquote{Recovery of inter-block
+  information when block sizes are unequal,} \textit{Biometrika}, 58, 545--554.
+
+\bibitem[{Rue et~al.(2009)Rue, Martino, and Chopin}]{rue_approximate_2009}
+Rue, H., Martino, S., and Chopin, N. (2009), \enquote{Approximate {Bayesian}
+  inference for latent {Gaussian} models by using integrated nested {Laplace}
+  approximations,} \textit{Journal of the Royal Statistical Society: Series B
+  (Statistical Methodology)}, 71, 319--392.
+
+\bibitem[{Sherman and
+  Morrison(1949)}]{ShermanEtAl1949Adjustmentinversematrix621}
+Sherman, J. and Morrison, W.~J. (1949), \enquote{Adjustment of an inverse
+  matrix corresponding to changes in the elements of a given column or a given
+  row of the original matrix,} \textit{Annals of Mathematical Statistics}, 20,
+  621.
+
+\bibitem[{Snedecor and
+  Cochran(1980)}]{SnedecorEtAl1980StatisticalMethodsSeventh}
+Snedecor, G.~W. and Cochran, W.~G. (1980), \textit{Statistical {Methods},
+  {Seventh} {Edition}}, Iowa State University.
+
+\bibitem[{Stiratelli et~al.(1984)Stiratelli, Laird, and
+  Ware}]{stiratelli_random-effects_1984}
+Stiratelli, R., Laird, N., and Ware, J.~H. (1984), \enquote{Random-effects
+  models for serial observations with binary response,} \textit{Biometrics},
+  40, 961--971.
+
+\bibitem[{Tierney and Kadane(1986)}]{tierney_accurate_1986}
+Tierney, L. and Kadane, J.~B. (1986), \enquote{Accurate approximations for
+  posterior moments and marginal densities,} \textit{Journal of the American
+  Statistical Association}, 81, 82--86.
+
+\bibitem[{Ver~Hoef(2018)}]{VerHoef2018KrigingModelsLinear1600}
+Ver~Hoef, J.~M. (2018), \enquote{Kriging models for linear networks and
+  non-{Euclidean} distances: {Cautions} and solutions,} \textit{Methods in
+  Ecology and Evolution}, 9, 1600--1613.
+
+\bibitem[{Ver~Hoef and Peterson(2010)}]{VerHoefEtAl2010movingaverageapproach6}
+Ver~Hoef, J.~M. and Peterson, E. (2010), \enquote{A moving average approach for
+  spatial statistical models of stream networks (with discussion),}
+  \textit{Journal of the American Statistical Association}, 105, 6--18.
+
+\bibitem[{Ver~Hoef et~al.(2018)Ver~Hoef, Peterson, Hooten, Hanks, and
+  Fortin}]{VerHoefEtAl2018Spatialautoregressivemodels36}
+Ver~Hoef, J.~M., Peterson, E.~E., Hooten, M.~B., Hanks, E.~M., and Fortin,
+  M.-J. (2018), \enquote{Spatial autoregressive models for statistical
+  inference from ecological data,} \textit{Ecological Monographs}, 88, 36--59.
+
+\bibitem[{Warton and Hui(2011)}]{warton_arcsine_2011}
+Warton, D.~I. and Hui, F.~K. (2011), \enquote{The arcsine is asinine: the
+  analysis of proportions in ecology,} \textit{Ecology}, 92, 3--10.
+
+\bibitem[{Wedderburn(1974)}]{wedderburn_quasi-likelihood_1974}
+Wedderburn, R. W.~M. (1974), \enquote{Quasi-likelihood functions, generalized
+  linear models, and the {Gauss}-{Newton} method,} \textit{Biometrika}, 61,
+  439--447.
+
+\bibitem[{Whittle(1954)}]{Whittle1954stationaryprocessesplane434}
+Whittle, P. (1954), \enquote{On stationary processes in the plane,}
+  \textit{Biometrika}, 41, 434--449.
+
+\bibitem[{Woodbury(1950)}]{Woodbury1950Invertingmodifiedmatrices}
+Woodbury, M.~A. (1950), \textit{Inverting modified matrices}, Statistical
+  Research Group, Princeton N.J., published: Memorandum Report 42.
+
+\bibitem[{Zeger and Karim(1991)}]{zeger_generalized_1991}
+Zeger, S.~L. and Karim, M.~R. (1991), \enquote{Generalized linear models {With}
+  random effects; {A} {Gibbs} sampling approach,} \textit{Journal of the
+  American Statistical Association}, 86, 79--86, publisher: [American
+  Statistical Association, Taylor \& Francis, Ltd.].
+
+\bibitem[{Zeger et~al.(1988)Zeger, Liang, and Albert}]{zeger_models_1988}
+Zeger, S.~L., Liang, K.-Y., and Albert, P.~S. (1988), \enquote{Models for
+  longitudinal data: {A} generalized estimating equation approach,}
+  \textit{Biometrics}, 44, 1049--1060, publisher: [Wiley, International
+  Biometric Society].
+
+\bibitem[{Zhang(2002)}]{zhang_estimation_2002}
+Zhang, H. (2002), \enquote{On estimation and prediction for spatial generalized
+  linear mixed models,} \textit{Biometrics}, 58, 129--136.
+
+\bibitem[{Zhang(2004)}]{zhang_inconsistent_2004}
+--- (2004), \enquote{Inconsistent estimation and asymptotically equal
+  interpolations in model-based geostatistics,} \textit{Journal of the American
+  Statistical Association}, 99, 250--261.
+
+\end{thebibliography}
